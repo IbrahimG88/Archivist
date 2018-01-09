@@ -1,0 +1,8 @@
+{
+  "name": "Archivist",
+  "app_id": "bb1e2337",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
